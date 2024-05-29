@@ -1,3 +1,4 @@
+libQt6Bluetooth.so.6:NonQt
 libQt6Bluetooth.so.6:Qt_6
 libQt6Bluetooth.so.6:Qt_6_PRIVATE_API
 libQt6Bluetooth.so.6:_Z17bluetoothdVersionv
@@ -501,6 +502,7 @@ libQt6Bluetooth.so.6:_ZNK31QLowEnergyAdvertisingParameters15minimumIntervalEv
 libQt6Bluetooth.so.6:_ZNK31QLowEnergyAdvertisingParameters4modeEv
 libQt6Bluetooth.so.6:_ZNK31QLowEnergyAdvertisingParameters9whiteListEv
 libQt6Bluetooth.so.6:_Zls6QDebugRK14QBluetoothUuid
+libQt6Nfc.so.6:NonQt
 libQt6Nfc.so.6:Qt_6
 libQt6Nfc.so.6:Qt_6_PRIVATE_API
 libQt6Nfc.so.6:_Z40qRegisterNormalizedMetaType_QNdefMessageRK10QByteArray
