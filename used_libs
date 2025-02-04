@@ -1,7 +1,6 @@
 libQt6Core.so.6
 libQt6DBus.so.6
 libQt6Network.so.6
-libbluetooth.so.3
 libc.so.6
 libpcsclite.so.1
 libstdc++.so.6
